@@ -1,0 +1,103 @@
+
+.text-design
+{
+    font-size: 35px;
+    text-justify: auto;
+    margin-top: 50px;
+}
+/* .text-mitlent{
+    clear: both;
+  font-size: 50px;
+    text-align: center;
+} */
+/* .hr-line
+{
+  width: 130px;
+  background-color: #0000009e;
+  margin-top: -7px;
+} */
+.text-d{
+    font-size: 10px;
+    margin-top: 10px;
+}
+.text-p{
+    color: grey;
+    font-size: 13px;
+    margin-top: 68px;
+}
+.text-line-height{
+    color: grey;
+    font-size: 13px;
+    margin-top: 40px;
+    line-height: unset;
+    line-height: 2;
+}
+.text-p-margin{
+    margin-top: 20px;
+    
+    font-size: 13px;
+}
+.img-set-1
+{
+    height: 400px;
+    width: 100%;
+    margin-top: 30px;
+}
+
+.d-text{
+    font-size: 60px;
+    margin-top: 40px;
+}
+.text-design-1
+{
+    font-size: 17px;
+    margin-top: -76px;
+    margin-left: 44px;
+    text-justify: auto;
+}
+.text-p1{
+    font-size: 11px;
+    margin-top: 20px;
+    line-height: 2;
+    color: grey;
+
+}
+.icon-margin
+{
+    margin-left: 20px;
+    margin-top: 30px;
+    height: 50px;
+}
+.hr-line
+{
+  width: 149px;
+  background-color: #0000009e;
+  margin-top: -7px;
+}
+.text-news{
+    clear: both;
+  font-size: 40px;
+  margin-left: 310px;
+}
+.text-margin-color
+{
+    margin-left: 90px;
+    margin-top: -85px;
+    margin-left: 90px;
+    color: cadetblue;
+}
+.date{
+    margin-left: 90px;
+    font-size: 10px;
+    color: gray;
+}
+.image-height{
+    height: 80px;
+    width: 98px;
+}
+.text-margin{
+    margin-left: 90px;
+    margin-top: -80px;
+    
+    color: #2d2b2b;
+}
